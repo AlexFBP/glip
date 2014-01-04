@@ -19,14 +19,6 @@
  * along with glip.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-require_once('binary.class.php');
-require_once('git_object.class.php');
-require_once('git_blob.class.php');
-require_once('git_commit.class.php');
-require_once('git_commit_stamp.class.php');
-require_once('git_tag.class.php');
-require_once('git_tree.class.php');
-
 /**
  * @relates Git
  * @brief Convert a SHA-1 hash from hexadecimal to binary representation.

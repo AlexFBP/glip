@@ -1,0 +1,20 @@
+{
+	"name": "frozen-doe.net/glip",
+	"description": "Fork of Git Library In PHP",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Patrik Fimml"
+		}, {
+			"name": "Josef Kufner",
+			"email": "jk@frozen-doe.net"
+		}
+	],
+	"require": {
+		"php": ">=5.1"
+	},
+	"autoload": {
+		"classmap": [ "lib/" ]
+	}
+}
+
